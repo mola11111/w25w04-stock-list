@@ -13,6 +13,7 @@ const stocks = [
   { ticker: 'ADBE' },
   { ticker: 'ORCL' },
   { ticker: 'IBM' },
+  { ticker: 'CRCL' },
   { ticker: '005930.KS' },
   // 금 현물 티커
   { ticker: 'GCZ25.CMX' },
