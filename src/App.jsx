@@ -11,11 +11,12 @@ const stocks = [
   { ticker: 'AMD' },
   { ticker: 'PYPL' },
   { ticker: 'ADBE' },
-  { ticker: 'CRM' },
   { ticker: 'ORCL' },
-  { ticker: 'CSCO' },
   { ticker: 'IBM' },
-  { ticker: 'INTC1' },
+  { ticker: '005930.KS' },
+  // 금 현물 티커
+  { ticker: 'GCZ25.CMX' },
+  { ticker: "035420.KS" }
   //  { ticker: '005930.KS' },
 ]
 
